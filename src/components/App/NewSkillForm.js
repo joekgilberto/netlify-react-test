@@ -1,12 +1,12 @@
 
 export default function NewSkillForm() {
     return (
-        <form>
-            <label>
+        <form className="form">
+            <label className="form-label">
                 Skill
                 <input type="text" />
             </label>
-            <label>
+            <label className="form-label">
                 Level
                 <select>
                     <option value="1">1</option>
@@ -15,8 +15,8 @@ export default function NewSkillForm() {
                     <option value="4">4</option>
                     <option value="5">5</option>
                 </select>
-                <button type="submit">ADD SKILL</button>
             </label>
+            <button type="submit">ADD SKILL</button>
         </form>
     )
 }
