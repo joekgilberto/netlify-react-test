@@ -49,7 +49,7 @@ Your final commit for each part should follow this pattern:
 `git add . && git commit -m 'part XXX dev skills complete'`
 
 ## Continue to other labs
-- [Part 1](../README.md)
+- [Part 1](./README.md)
 - [Part 2](./docs/dev-skills-part2.md) 
 - [Part 3](./docs/dev-skills-part3.md) 
 - [Part 4](./docs/dev-skills-part4.md) 
