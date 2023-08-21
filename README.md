@@ -50,6 +50,6 @@ Your final commit for each part should follow this pattern:
 
 ## Continue to other labs
 - [Part 1](../README.md)
-- [Part 2](./dev-skills-part2.md) 
-- [Part 3](./dev-skills-part3.md) 
-- [Part 4](./dev-skills-part4.md) 
+- [Part 2](./docs/dev-skills-part2.md) 
+- [Part 3](./docs/dev-skills-part3.md) 
+- [Part 4](./docs/dev-skills-part4.md) 
