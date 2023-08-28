@@ -1,5 +1,5 @@
 import './SkillList.css'
-import SkillListItem from './SkillListItem'
+import SkillListItem from '../SkillListItem/SkillListItem'
 
 export default function SkillList({skills}) {
 
