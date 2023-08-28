@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
-import SkillList from './SkillList';
-import NewSkillForm from './NewSkillForm';
+import SkillList from '../SkillList/SkillList';
+import NewSkillForm from '../NewSkillForm/NewSkillForm';
 
 function App() {
 
